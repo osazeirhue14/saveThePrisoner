@@ -55,10 +55,12 @@ Sample Input 1
 2
 7 19 2
 3 7 3
+
 Sample Output 1
 
 6
 3
+
 Explanation 1
 
 In the first test case, there are  prisoners,  sweets and they are passed out starting at chair . The candies go all around twice and there are  more candies passed to each prisoner from seat  to seat .
