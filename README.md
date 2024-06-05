@@ -38,10 +38,12 @@ Sample Input 0
 2
 5 2 1
 5 2 2
+
 Sample Output 0
 
 2
 3
+
 Explanation 0
 
 In the first query, there are  prisoners and  sweets. Distribution starts at seat number . Prisoners in seats numbered  and  get sweets. Warn prisoner .
