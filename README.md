@@ -36,8 +36,11 @@ Constraints
 Sample Input 0
 
 2
+
 5 2 1
+
 5 2 2
+
 
 Sample Output 0
 
@@ -53,8 +56,11 @@ In the second query, distribution starts at seat  so prisoners in seats  and  ge
 Sample Input 1
 
 2
+
 7 19 2
+
 3 7 3
+
 
 Sample Output 1
 
